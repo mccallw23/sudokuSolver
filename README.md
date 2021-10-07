@@ -8,7 +8,7 @@ Sudoku is well known logic puzzle where numbers between 1 and 9 are placed on a 
 1. A sudoku board must be 9x9.
 2. Each row must contain the numbers [1-9] with no repetition.
 3. Each column must contain the numbers [1-9] with no repetition.
-4. each 3x3 "cell" must contain the numbers [1-9] with no repetition.
+4. Each 3x3 "cell" must contain the numbers [1-9] with no repetition.
 
 This module is capable of randomly generating and returning an sudoku board with just 1 unique solution to be solved.  It is also capable of completely solving a given 9x9 sudoku board if a solution exists.
 
